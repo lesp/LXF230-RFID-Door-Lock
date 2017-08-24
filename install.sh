@@ -8,3 +8,4 @@ cd SPI-Py
 sudo python3 setup.py install
 cd /home/$USER
 git clone https://github.com/lesp/LXF230-RFID-Door-Lock
+sudo pip3 install logzero
