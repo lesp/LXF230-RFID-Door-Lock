@@ -11,5 +11,5 @@ try:
     while True:
         id, text = reader.read()
         print("This card's ID is",id)
-except KeyboardInetrrupt:
+except KeyboardInterrupt:
     print("Exit")
