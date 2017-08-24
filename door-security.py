@@ -2,7 +2,6 @@
 from gpiozero import Button, OutputDevice
 import SimpleMFRC522
 import time
-import datetime
 import logzero
 from logzero import logger
 
@@ -31,7 +30,7 @@ def button_open():
         print("DOOR LOCKED")
 
 
-#relay.on()
+
 cards = {642581926087: "John Smith",572050203913: "Sarah Rogers"}
 while True:
     release.when_pressed = button_open
@@ -43,4 +42,3 @@ while True:
     else:
         print("Unknown Card")
         logger.error(id)
-        
