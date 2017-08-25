@@ -2,7 +2,9 @@
 
 ![alt](https://www.linuxformat.com/forums/images/lxf.gif)
 
-A simple project for all models of Raspberry Pi.
+A project for all models of Raspberry Pi.
+Build your own security system using a Raspberry Pi, RFID reader, a relay, 12V power supply and a magnetic door lock.
+The project also logs the access using the logzero Python library, this could easily be upgraded to include taking photographs and emailing any unauthorised access attempts to the administrator.
 
 ## Installation
 
