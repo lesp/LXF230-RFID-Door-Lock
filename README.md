@@ -28,6 +28,6 @@ Relays isolate the higher voltage 12V circuit from the low voltage circuit for t
 ![alt](https://raw.githubusercontent.com/lesp/LXF230-RFID-Door-Lock/master/Images/RFID1.JPG)
 The RFID reader is an RFID-RC522, you can find them really cheap on eBay but we used the [Monk Make Clever Card Kit](https://www.monkmakes.com/cck/) as it offers a complete kit, along with a great guide. We reviewed it in LXF229, so take a look.
 
-![alt](LOCK)
+![alt](https://raw.githubusercontent.com/lesp/LXF230-RFID-Door-Lock/master/Images/magnetic%20door%20lock.png)
 The magnetic door lock is only £25 and it can resist 280KG of force! Really easy to use, give it power and the magnet comes to life locking the door. Cut the power and the door can be easily opened.
 
